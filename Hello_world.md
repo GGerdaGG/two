@@ -8,3 +8,11 @@
 ```
 git remote add origin (или имя репозитория) <адрес репозитория>
 ```
+
+```C#
+int count = 0;
+while(count<=n)
+{
+    count++;
+}
+```
